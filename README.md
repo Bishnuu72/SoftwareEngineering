@@ -5,5 +5,6 @@ This repository contains artifacts for the Inventory Management System (IMS) red
 Artifacts
 Work Breakdown Structure (WBS): Outlines the project tasks using the Prototype methodology.
 Gantt Chart: Displays the project timeline (April 1 - May 31, 2025) with iterative cycles.
+Use Case Diagram: Represents the system’s actors and functionalities with relationships.
 Sequence Diagram (Purchase Order): Illustrates the interaction for adding and viewing purchase orders.
 Activity Diagram (Generate Report): Depicts the workflow for generating Sales and Purchase Reports.
