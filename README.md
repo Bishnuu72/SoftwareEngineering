@@ -1,10 +1,4 @@
 # SoftwareEngineering
-CS5002NI Software Engineering Coursework - IMS Project
-This repository contains artifacts for the Inventory Management System (IMS) redevelopment project for Global Tech Corporation, developed as part of the CS5002NI Software Engineering coursework. The project uses the Prototype methodology to design a system addressing warehouse management needs in Nepal, applying Object-Oriented Analysis and Design (OOAD) principles.
+AGILE BASED WBS
+The Agile-based WBS (Work breakdown structure) for the Inventory Management System project is a sequential plan of a development process that is split into smaller parts according to Agile principles into more doable part. First is product backlog management, in which user roles and system features, including login, product management, purchase, sales, reporting, and payment are documented and written as user stories. These features are ranked and have criteria of acceptability. The project is broken into several sprints each with a functional mandate. Sprint 1 deals with login & product, Sprint 2 has purchase & sale, and Sprint 3 is about payment integration & report generation. Following each sprint, there is feedback, and changes are made. At the same time, artifacts of system design such as use case diagrams, sequence diagrams, activity diagrams and class diagrams are developed to assist in analysis and documentation. Testing, unit/integration/test and test are conducted during the process to ensure that all modules function appropriately. Finally, the system is cleaned up, deployed, documented, and ready for maintenance. This organized Agile WBS makes the development process smoother and with continual improvement and a working system in every phase.
 
-Artifacts
-Work Breakdown Structure (WBS): Outlines the project tasks using the Prototype methodology.
-Gantt Chart: Displays the project timeline (April 1 - May 31, 2025) with iterative cycles.
-Use Case Diagram: Represents the system’s actors and functionalities with relationships.
-Sequence Diagram (Purchase Order): Illustrates the interaction for adding and viewing purchase orders.
-Activity Diagram (Generate Report): Depicts the workflow for generating Sales and Purchase Reports.
